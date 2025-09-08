@@ -1,2 +1,2 @@
 # Project Portfolio
-A collection of academic and personal IT &amp; Cybersecurity projects showcasing scripting, networking, and virtualization skills.
+This is a collection of academic and personal IT &amp; Cybersecurity projects showcasing scripting, networking, and virtualization skills.

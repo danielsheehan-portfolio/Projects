@@ -1,0 +1,28 @@
+Portfolio-Projects/
+│
+├── Active-Directory-Group-Policy/
+│   ├── README.md
+│   └── report.pdf
+│
+├── Enterprise-Network-OSPF/
+│   ├── README.md
+│   ├── topology.pkt
+│   └── report.pdf
+│
+├── Secure-Communication-Encryption/   (optional, security showcase)
+│   ├── README.md
+│   └── report.pdf
+│
+├── Python-User-Automation/
+│   ├── README.md
+│   ├── script.py
+│   └── sample_users.csv
+│
+├── VM-Stress-Test-Cloud-Costs/
+│   ├── README.md
+│   ├── stress.py
+│   └── report.pdf
+│
+└── Penetration-Testing-Vulnerability-Scanning/   (optional pentest)
+    ├── README.md
+    └── report.pdf

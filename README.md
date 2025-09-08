@@ -4,7 +4,7 @@ A selection of IT & Cybersecurity projects showing my work in networking, securi
 
 ---
 
-## Projects  
+## My Work:  
 
 - **[Attacking & Defending Test Exercise](Attacking%20&%20Defending%20Test%20Exercise.pdf)**  
   Set up an Ubuntu server with security tools, hardened it with firewall rules, then carried out attacks from Kali Linux. Used Security Onion to detect and respond.  
@@ -17,5 +17,5 @@ A selection of IT & Cybersecurity projects showing my work in networking, securi
 
 ---
 
-⚠️ **Academic Integrity Notice**  
+**Academic Integrity Notice**  
 This portfolio is for showcasing my skills only. Not to be copied, reused or submitted as coursework.  

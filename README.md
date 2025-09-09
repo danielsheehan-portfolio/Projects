@@ -1,8 +1,8 @@
-# Project Portfolio  - Daniel Sheehan 
+<h1 align="center">Project Portfolio - Daniel Sheehan</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-sheehan-8a9b801bb">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Profile" width="160"/>
   </a>
 </p>
 

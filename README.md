@@ -2,12 +2,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-sheehan-8a9b801bb">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Profile" width="160"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60"/>
   </a>
 </p>
-
-
-
 
 
 This repository highlights practical IT & Cybersecurity projects that demonstrate my skills in networking, system administration, and security.  

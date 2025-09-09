@@ -12,7 +12,7 @@ Each project showcases hands-on experience I've gained over the past two years a
   *Skills demonstrated: system hardening, penetration testing, log analysis, and intrusion detection.*  
 
 - **[Internal Network Penetration & Vulnerability Assessment](Internal%20Network%20Penetration%20&%20Vulnerability%20Assessment.pdf)**  
-  In this project I carried out a vulnerability assessment on a remote host using **Nmap** to identify outdated services (OpenSSH, Apache, MySQL). next I researched Common Vulnerabilities and Exposures, I then used **Armitage** in Kali Linux to exploit weaknesses and gain access, retrieved sensitive information from the compromised system and tested defense by applying static routing and **ACLs in Packet Tracer** to restrict traffic and block HTTP/ICMP from specific networks.  
+  In this project I carried out a vulnerability assessment on a remote host using **Nmap** to identify outdated services (OpenSSH, Apache, MySQL in my case). next I researched Common Vulnerabilities and Exposures, I then used **Armitage** in Kali Linux to exploit weaknesses and gain access, retrieved sensitive information from the compromised system and tested defense by applying static routing and **ACLs in Packet Tracer** to restrict traffic and block HTTP/ICMP from specific networks.  
   *Skills demonstrated: vulnerability scanning, CVE research, exploitation, and defensive network configuration.*  
 
 

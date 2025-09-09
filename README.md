@@ -1,4 +1,4 @@
-# Project Portfolio  
+# Project Portfolio  - Daniel Sheehan 
 
 This repository highlights practical IT & Cybersecurity projects that demonstrate my skills in networking, system administration, and security.  
 Each project showcases hands-on experience I've gained over the past two years and shows how I could apply these skills in real world scenarios.  

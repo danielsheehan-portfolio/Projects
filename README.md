@@ -1,18 +1,24 @@
-# Project Portfolio - Daniel Sheehan  
+<h1 align="center">Project Portfolio - Daniel Sheehan</h1>
 
 <p align="center">
 I’m an IT & Cybersecurity student in MTU Cork with a strong interest in networking, cybersecurity, and virtualization.  
 I’ve primarily gained hands-on experience through projects involving system hardening, penetration testing, and secure network design.  
 </p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-sheehan-8a9b801bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:danielsheehan2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-danielsheehan2020%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Profile" width="50"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="mailto:danielsheehan2020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-danielsheehan2020%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+</p>
+
+---
 
 
 

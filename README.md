@@ -1,14 +1,16 @@
-<h1 align="center">Project Portfolio - Daniel Sheehan</h1>
+# Project Portfolio - Daniel Sheehan  
+
+<p align="center">
+Hi, I’m Daniel — an aspiring cybersecurity professional with hands-on experience in penetration testing, system hardening, and secure networking.  
+I enjoy building labs, simulating attacks, and applying defenses to understand how security works in the real world.  
+</p>  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-sheehan-8a9b801bb">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Profile" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <a href="mailto:danielsheehan2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-danielsheehan2020%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+    <img src="https://img.shields.io/badge/Email-danielsheehan2020%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 

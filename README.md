@@ -8,11 +8,12 @@
 
 <p align="center">
   <a href="mailto:danielsheehan2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-danielsheehan2020%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-danielsheehan2020%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
 </p>
 
 ---
+
 
 
 

@@ -1,5 +1,12 @@
 # Project Portfolio  - Daniel Sheehan 
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-sheehan-8a9b801bb)
+
+</div>
+
+
 This repository highlights practical IT & Cybersecurity projects that demonstrate my skills in networking, system administration, and security.  
 Each project showcases hands-on experience I've gained over the past two years and shows how I could apply these skills in real world scenarios.  
 

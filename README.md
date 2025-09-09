@@ -1,13 +1,17 @@
-<div align="center">
+<h1 align="center">Project Portfolio - Daniel Sheehan</h1>
 
-# Project Portfolio - Daniel Sheehan  
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-sheehan-8a9b801bb">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Profile" width="50"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-sheehan-8a9b801bb)  
-[![Email](https://img.shields.io/badge/Email-dsheehan@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsheehan2020@gmail.com)
-
-</div>
+<p align="center">
+  <a href="mailto:danielsheehan2020@gmail.com">danielsheehan2020@gmail.com</a>
+</p>
 
 ---
+
 
 This repository highlights practical IT & Cybersecurity projects that demonstrate my skills in networking, system administration, and security. Each project showcases hands-on experience I've gained over the past two years and shows how I could apply these skills in real-world scenarios.
 

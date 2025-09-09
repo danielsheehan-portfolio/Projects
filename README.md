@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-sheehan-8a9b801bb">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60"/>
+    <img src="https://upload.wikimedia.org/commons/0/08/LinkedIn_Logo_2013.svg" alt="LinkedIn Profile" width="200"/>
   </a>
 </p>
+
 
 
 

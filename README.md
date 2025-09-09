@@ -41,5 +41,5 @@ This repository highlights practical IT & Cybersecurity projects that demonstrat
 
 ---
 
-⚠️ **Academic Integrity Notice**  
+**Academic Integrity Notice**  
 This portfolio is for showcasing my skills only. Not to be copied, reused, or submitted as coursework.

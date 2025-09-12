@@ -48,7 +48,8 @@ This repository highlights practical IT & Cybersecurity projects that demonstrat
 
 ---
 
-## <img src="./MTULogo.jpg" alt="MTU Logo" width="40"/> MTU Coursework Projects
+## <img src="./mtu-logo.png" alt="MTU Logo" width="28" style="vertical-align:middle;"/> MTU Coursework Projects
+
  
 - **[Windows Security](Windows%20Security%20Assignment%20Daniel%20Sheehan%20Submission.pdf)**  
   Developed and executed PowerShell scripts to analyze security event logs, monitor processes, and enforce access control policies in a Windows Server environment.  

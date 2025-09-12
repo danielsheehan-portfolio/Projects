@@ -28,7 +28,7 @@ This repository highlights practical IT & Cybersecurity projects that demonstrat
 
 ---
 
-## My Work:
+## My Independent Projects:
 
 - **[Attacking & Defending Test Exercise](Attacking%20&%20Defending%20Test%20Exercise.pdf)**  
   In this project I built and hardened a Ubuntu server with tools like **ClamAV, Chkrootkit, and Lynis** to detect malware and misconfigurations. I configured **CSF firewall rules** and then launched attacks from Kali Linux using **Hydra** (SSH brute force) and **Nmap** scans. Following this I monitored system activity with **Security Onion**, escalating alerts into a case for investigation.  
@@ -47,6 +47,21 @@ This repository highlights practical IT & Cybersecurity projects that demonstrat
   *Skills demonstrated: encryption, secure communication, VPN tunneling, and Wi-Fi security.*
 
 ---
+
+## <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Munster_Technological_University_logo.png/220px-Munster_Technological_University_logo.png" alt="MTU Logo" width="40"/> MTU Coursework Projects
+ 
+- **[Windows Security](Windows%20Security%20Assignment%20Daniel%20Sheehan%20Submission.pdf)**  
+  Developed and executed PowerShell scripts to analyze security event logs, monitor processes, and enforce access control policies in a Windows Server environment.  
+  *Skills demonstrated: PowerShell scripting, Windows system administration, access control, and event log analysis.*  
+
+---  
+
+- **[Internet & Network Services](Internet%20Network%20Services%20Assignment%20Daniel%20Sheehan%20Submission.pdf)**  
+  Designed and implemented a multi-service Linux network across three virtual machines, configuring **DNS (BIND9)**, **DHCP**, **SSH**, **Apache with Ruby on Rails**, **Postfix/Dovecot mail**, **iSCSI storage**, **CUPS printing**, and a **Cockpit management server**. Validated connectivity, redundancy, and service functionality across the subnet.  
+  *Skills demonstrated: Linux server administration, service configuration, networking, troubleshooting, and system integration.*  
+
+---
+
 
 **Academic Integrity Notice**  
 This portfolio is for showcasing my skills only. Not to be copied, reused, or submitted as coursework.

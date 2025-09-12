@@ -1,8 +1,8 @@
 <h1 align="center">Project Portfolio - Daniel Sheehan</h1>
 
 <p align="center">
-I’m an IT & Cybersecurity student in MTU Cork with a strong interest in networking, cybersecurity, and virtualization.  
-I’ve primarily gained hands-on experience through projects involving system hardening, penetration testing, and secure network design.  
+I’m an Information Technology & Cybersecurity student in MTU Cork with a strong interest in networking, cybersecurity, and IT Operations.  
+I’ve primarily gained hands-on experience through projects involving system hardening, penetration testing, and secure network design. I also have experience working with ADDS, DNS, DHCP and WSUS  
 </p>
 
 

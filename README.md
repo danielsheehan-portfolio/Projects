@@ -28,7 +28,8 @@ This repository highlights practical IT & Cybersecurity projects that demonstrat
 
 ---
 
-## My Independent Projects:
+<h2 align="center">My Independent Projects</h2>
+
 
 - **[Attacking & Defending Test Exercise](Attacking%20&%20Defending%20Test%20Exercise.pdf)**  
   In this project I built and hardened a Ubuntu server with tools like **ClamAV, Chkrootkit, and Lynis** to detect malware and misconfigurations. I configured **CSF firewall rules** and then launched attacks from Kali Linux using **Hydra** (SSH brute force) and **Nmap** scans. Following this I monitored system activity with **Security Onion**, escalating alerts into a case for investigation.  

@@ -48,7 +48,11 @@ This repository highlights practical IT & Cybersecurity projects that demonstrat
 
 ---
 
-## <img src="./mtu-logo.png" alt="MTU Logo" width="40" style="vertical-align:middle;"/> MTU Coursework Projects
+<p align="center">
+  <img src="./mtu-logo.png" alt="MTU Logo" width="100"/>
+</p>
+
+<h2 align="center">MTU Coursework Projects</h2>
 
 
  

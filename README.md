@@ -2,7 +2,7 @@
 
 <p align="center">
 I’m an Information Technology & Cybersecurity student in MTU Cork with a strong interest in networking, cybersecurity, and IT Operations.  
-I’ve primarily gained hands-on experience through projects involving system hardening, penetration testing, and secure network design. I also have experience working with ADDS, DNS, DHCP and WSUS  
+I’ve primarily gained hands-on experience through projects involving system hardening, penetration testing, and secure network design for both Linux and Winodws. I also have experience working with ADDS, DNS, DHCP and WSUS in Windows Server environments.
 </p>
 
 
